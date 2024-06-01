@@ -1,0 +1,10 @@
+.application {
+    display: flex;
+}
+
+.application-content {
+    height: 100dvh;
+    overflow-y: scroll;
+    width: calc(100% - 80px);
+    padding: 0 24px;
+}

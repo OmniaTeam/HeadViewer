@@ -1,0 +1,1 @@
+export { CandidateSkillsWidget } from './candidateSkills'

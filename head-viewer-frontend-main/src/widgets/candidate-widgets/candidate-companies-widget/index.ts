@@ -1,0 +1,1 @@
+export { CandidateCompaniesWidget } from './candidateCompaniesWidget'

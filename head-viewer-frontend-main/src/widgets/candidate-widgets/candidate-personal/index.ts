@@ -1,0 +1,1 @@
+export { CandidatePersonal } from './candidatePersonal'

@@ -1,0 +1,1 @@
+export { deleteUserThunk } from './deleteUserThunk'

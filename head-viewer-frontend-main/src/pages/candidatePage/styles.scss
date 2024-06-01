@@ -1,0 +1,15 @@
+.candidate {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    &--widgets {
+        display: flex;
+        align-items: flex-start;
+        gap: 24px
+    }
+    &--tables {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+}

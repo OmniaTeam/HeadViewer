@@ -1,0 +1,1 @@
+export { createTemplateThunk } from './createTemplateThunk'

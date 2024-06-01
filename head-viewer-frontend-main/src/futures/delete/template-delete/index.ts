@@ -1,0 +1,1 @@
+export { DeleteTemplate } from './ui'

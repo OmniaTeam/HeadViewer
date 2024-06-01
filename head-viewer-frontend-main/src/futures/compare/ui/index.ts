@@ -1,0 +1,1 @@
+export { CompareCandidates } from './compareCandidates'
